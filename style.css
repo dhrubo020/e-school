@@ -54,7 +54,7 @@ body {
         height: 350px;
     }
 }
-
+/*---------button---------*/
 .btn-get-started{
     padding: px 24px;
     background-color:#21B573;
@@ -129,6 +129,7 @@ body {
 }
 /*------------footer-------*/
 .footer{
+    width: 100% ;
     background-color: rgb(16, 7, 36);
     padding-top: 5%;
     padding-left: 7%;
